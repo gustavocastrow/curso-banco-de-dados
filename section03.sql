@@ -153,10 +153,3 @@ WHERE ENDERECO LIKE '%CENTRO%';
 
 
 
-
-
-
-
-
-
-
