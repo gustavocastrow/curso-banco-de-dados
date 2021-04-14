@@ -169,6 +169,13 @@ FROM LIVROS
 WHERE UF = 'SP';
 
 
+/*6. Trazer os dados dos autores do sexo masculino que tiveram livros
+publicados  por Sao Paulo ou Rio de Janeiro */
+
+SELECT AUTOR, SEXO, UF
+FROM LIVROS
+WHERE SEXO = 'M'
+AND (UF = 'SP' OR UF = 'RJ')
 
 
 
