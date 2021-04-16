@@ -1,0 +1,75 @@
+USE PROJETO;
+
+SELECT * FROM CLIENTE;
+
+/* Filtrando valores NULOS */
+
+SELECT NOME, EMAIL
+FROM CLIENTE
+WHERE EMAIL IS NULL;
+
+/* Filtrando valores nao nulos */
+
+SELECT NOME, EMAIL
+FROM CLIENTE
+WHERE EMAIL IS NOT NULL;
+
+
+/* Clausula UPDATE */
+
+/* WHERE => Comando mais importante e utilizado */
+
+SELECT NOME, EMAIL FROM CLIENTE
+UPDATE CLIENTE
+SET EMAIL = 'JOAO.SILVA@GMAIL.COM'
+WHERE NOME = 'JOAO'
+
+/* COMMIT E ROLLBACK para voltar */
+
+/*Clausula DELETE */
+
+SELECT COUNT(*) FROM CLIENTE;
+/* 6 REGISTROS */
+
+SELECT COUNT(*) FROM CLIENTE
+WHERE NOME = 'ANA'; /*1 REGISTRO */
+
+DELETE FROM CLIENTE
+WHERE NOME = 'ANA';
+
+
+INSERT INTO CLIENTE VALUES(
+	'CARLA',
+    'F',
+    'C.LOPES@UOL.COM.BR',
+    1294232312,
+    '563820-834892',
+    'RUA COPPER LEAF - WILLIAMSBURG - KITCHENER'
+);
+
+DELETE FROM CLIENTE
+WHERE NOME = 'CARLA'; /*IRA DELETAR OS DOIS REGISTROS */
+
+
+/*Validacao antes do delete */
+
+/*Escreve a query com delete mas nao roda, roda ela com o comando 
+SELECT para ver o que ela retorna, pois sera o retorno que sera deleta*/
+
+DELETE FROM CLIENTE
+WHERE NOME = 'CARLA'
+OR EMAIL = 'LILIAN@HOTMAIL.COM'
+
+SELECT * FROM CLIENTE
+WHERE NOME = 'CARLA'
+OR EMAIL = 'LILIAN@HOTMAIL.COM'
+
+/*Trabalhando com condicoes logicas */
+
+SELECT * FROM CLIENTE
+WHERE NOME = 'CARLA'
+AND EMAIL = 'CARLA@TERATI.COM.BR'
+
+DELETE FROM CLIENTE
+WHERE NOME = 'CARLA'
+AND EMAIL = 'CARLA@TERATI.COM.BR'
