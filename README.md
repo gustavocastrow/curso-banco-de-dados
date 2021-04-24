@@ -2,7 +2,7 @@
 
 <p> Repositório apenas para fins de anotações e consultas de scripts que foram passados no decorrer do curso </p>
 
-
+---
 
 **Seção 02: Teoria**
 - [x] Arquitetura de Software
@@ -33,3 +33,17 @@
 - [x] Filtrando Valores
 - [x] A cláusula Update
 - [x] A cláusula Delete
+
+**Seção 08: Modelando Bancos de Dados para Sistemas**
+- [x] Começando a Modelar
+- [x] A história da Modelagem
+- [x] Primeira Forma Normal
+- [x] Cardinalidade e Obrigatoriedade
+- [x] Modelo Lógico para Físico - Parte 01
+- [x] Modelo Físico - Parte 02
+- [x] Entendendo a Foreign Key - Parte 01
+- [x] Foreign Key - Parte 02
+- [x] Serviços do Banco, Password e Sublime Text
+- [x] Inserindo Dados
+- [x] Inserções em Relacionamentos 1 x 1
+- [x] Inserções 1 x N
