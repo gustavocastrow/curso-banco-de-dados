@@ -47,3 +47,10 @@
 - [x] Inserindo Dados
 - [x] Inserções em Relacionamentos 1 x 1
 - [x] Inserções 1 x N
+
+**Seção 09: Juntando as peças**
+- [x] Seleção e Projeção
+- [ ] Junção
+- [ ] Inner Join
+- [ ] Comandos de DML
+- [ ] DDL - Modificando Tabelas
