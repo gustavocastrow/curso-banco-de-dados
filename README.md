@@ -50,7 +50,7 @@
 
 **Seção 09: Juntando as peças**
 - [x] Seleção e Projeção
-- [ ] Junção
-- [ ] Inner Join
+- [x] Junção
+- [x] Inner Join
 - [ ] Comandos de DML
 - [ ] DDL - Modificando Tabelas
