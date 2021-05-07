@@ -52,5 +52,5 @@
 - [x] Seleção e Projeção
 - [x] Junção
 - [x] Inner Join
-- [ ] Comandos de DML
+- [x] Comandos de DML
 - [ ] DDL - Modificando Tabelas
