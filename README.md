@@ -53,4 +53,4 @@
 - [x] Junção
 - [x] Inner Join
 - [x] Comandos de DML
-- [ ] DDL - Modificando Tabelas
+- [x] DDL - Modificando Tabelas
