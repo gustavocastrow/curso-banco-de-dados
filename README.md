@@ -16,7 +16,7 @@
 - [x] Conhecendo as projeções
 - [x] Seleções
 
-**Seção 04: Exercício Revisão**
+**Seção 04: Exercício Revisão 01**
 - [x] Exercício Livraria
 
 **Seção 05: Lógica dos Predicados**
@@ -24,7 +24,7 @@
 - [x] Operadores Lógicos
 - [x] Performance com Operadores Lógicos
 
-**Seção 06: Exercício Fixação**
+**Seção 06: Exercício Fixação 02**
 - [x] Criando o banco
 - [x] Solução primeiras questões
 - [x] Conclusão
@@ -54,3 +54,9 @@
 - [x] Inner Join
 - [x] Comandos de DML
 - [x] DDL - Modificando Tabelas
+
+**Seção 10: Exercícios de Fixação - 03**
+- [x] Exercícios de DML
+- [x] Correção DML - Parte 01
+- [x] Correção DML - Parte 02
+
