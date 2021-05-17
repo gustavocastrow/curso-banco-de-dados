@@ -60,3 +60,12 @@
 - [x] Correção DML - Parte 01
 - [x] Correção DML - Parte 02
 
+**Seção 10: Aprofundando**
+- [x] Funções - IFNULL
+- [x] Views
+- [x] Operações de DML em Views
+- [x] Ordenando Dados
+
+
+
+
