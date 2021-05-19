@@ -66,6 +66,16 @@
 - [x] Operações de DML em Views
 - [x] Ordenando Dados
 
+**Seção 12: Outras Notações**
+- [x] Notação de Cross e o Star UML
+
+**Seção 13: Programando em MySQL**
+- [x] Delimiter
+- [x] Iniciando com Programação em Bancos de Dados
+- [x] Procedures no Mundo Real
+- [x] Procedures com Query - PARÂMETROS
+- [x] Continuação
+
 
 
 
