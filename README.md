@@ -76,6 +76,11 @@
 - [x] Procedures com Query - PARÂMETROS
 - [x] Continuação
 
+**Seção 14: Agreguem, some, média e Funções de Agregação**
+- [x] Group By, Count, Max, Min, Avg e funções do MySQL
+- [x] Tudo certo, mas agora eu quero a soma - Utilizando o SUM!
+
+
 
 
 
