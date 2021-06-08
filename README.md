@@ -80,6 +80,12 @@
 - [x] Group By, Count, Max, Min, Avg e funções do MySQL
 - [x] Tudo certo, mas agora eu quero a soma - Utilizando o SUM!
 
+**Seção 15: Subconjunto do Conjunto**
+- [x] Utilizando Subqueries
+- [x] Somei as colunas, mas e as linhas?
+
+
+
 
 
 
